@@ -1,0 +1,1501 @@
+WEBVTT
+
+1
+00:00:00.350 --> 00:00:05.577
+<v Ava>Welcome to the deep dive on Theme 7: problem solving and creativity. I'm Ava.
+
+2
+00:00:05.897 --> 00:00:12.915
+<v Leo>And I'm Leo. And I have to say, this is one of those themes where you start noticing it everywhere in your own life.
+
+3
+00:00:13.235 --> 00:00:19.316
+<v Ava>It really is. So let's start with a little story from the reading. Ten minutes before a presentation,
+
+4
+00:00:19.316 --> 00:00:24.073
+<v Ava>a student notices that the hem of her skirt has come loose. No needle, no time.
+
+5
+00:00:24.393 --> 00:00:25.374
+<v Leo>Oh no.
+
+6
+00:00:25.694 --> 00:00:28.489
+<v Ava>She runs into her professor's office, and staples it.
+
+7
+00:00:28.809 --> 00:00:30.750
+<v Leo>Ha. Okay, problem solved.
+
+8
+00:00:31.070 --> 00:00:36.581
+<v Ava>Problem solved. And this whole theme is basically about how she did that, and why, sometimes,
+
+9
+00:00:36.581 --> 00:00:38.003
+<v Ava>we get stuck on the way.
+
+10
+00:00:38.903 --> 00:00:41.570
+<v Leo>So what's the big question we're answering today?
+
+11
+00:00:41.890 --> 00:00:46.690
+<v Ava>How do we solve problems, and what helps or blocks us when a problem needs a new idea.
+
+12
+00:00:47.589 --> 00:00:53.778
+<v Ava>There are three blocks. Block A, from Matlin and Farmer and from Robinson-Riegler, is the toolkit:
+
+13
+00:00:53.778 --> 00:01:00.030
+<v Ava>how you represent a problem, algorithms versus heuristics, and three heuristics in detail. Analogy,
+
+14
+00:01:00.030 --> 00:01:01.925
+<v Ava>means-ends, and hill climbing.
+
+15
+00:01:02.245 --> 00:01:03.973
+<v Leo>Then Block B is Sternberg.
+
+16
+00:01:04.293 --> 00:01:11.703
+<v Ava>Right. Block B takes away the clear path. Ill-structured problems, insight, and the things that block us or help us,
+
+17
+00:01:11.703 --> 00:01:15.728
+<v Ava>like mental set, functional fixedness, transfer and incubation.
+
+18
+00:01:16.048 --> 00:01:18.544
+<v Leo>And Block C is an actual experiment.
+
+19
+00:01:18.864 --> 00:01:26.066
+<v Ava>Block C is Camarda and colleagues, 2018. They test one big idea in the lab: to have an original idea,
+
+20
+00:01:26.066 --> 00:01:29.061
+<v Ava>do you first have to stop the obvious one?
+
+21
+00:01:29.961 --> 00:01:36.937
+<v Leo>Okay, let's start with Block A. Lecture A point one: representing a problem and choosing a strategy.
+
+22
+00:01:37.837 --> 00:01:44.987
+<v Ava>Every problem has the same three parts. You begin in the initial state, the hem is loose. You want to reach the goal state,
+
+23
+00:01:44.987 --> 00:01:49.464
+<v Ava>the hem is fixed. And there are obstacles in between: no needle, ten minutes.
+
+24
+00:01:49.784 --> 00:01:54.434
+<v Leo>And before you can do anything, you need to actually see the problem properly.
+
+25
+00:01:54.754 --> 00:02:01.157
+<v Ava>Exactly. You first build a mental representation: an inner model of what's given and what's wanted.
+
+26
+00:02:01.157 --> 00:02:05.037
+<v Ava>That can be symbols, a matrix, a diagram, or a visual image.
+
+27
+00:02:05.357 --> 00:02:07.298
+<v Leo>And attention matters here, right?
+
+28
+00:02:07.618 --> 00:02:15.557
+<v Ava>For three reasons. Attention is limited, competing thoughts divide it, and you have to focus it on the right part of the problem.
+
+29
+00:02:15.557 --> 00:02:21.957
+<v Ava>And cues in the environment, that's situated cognition, and cues from your own body, embodied cognition,
+
+30
+00:02:21.957 --> 00:02:23.618
+<v Ava>shape how you represent it.
+
+31
+00:02:24.518 --> 00:02:28.123
+<v Leo>The body part is the bit I love. Give me the examples.
+
+32
+00:02:28.443 --> 00:02:35.606
+<v Ava>People are more accurate on mental rotation if they're allowed to move their hands. Then there's the classic two-rope task.
+
+33
+00:02:35.606 --> 00:02:41.371
+<v Ava>Two ropes hang from the ceiling, too far apart to reach at once, and you have to tie them together.
+
+34
+00:02:41.691 --> 00:02:44.593
+<v Leo>And the trick is to swing one rope toward the other.
+
+35
+00:02:44.913 --> 00:02:52.329
+<v Ava>Right. And people were more likely to solve it if, during a so-called exercise break, they'd been told to swing their arms.
+
+36
+00:02:52.329 --> 00:02:56.369
+<v Ava>A movement can suggest a solution before you can put it into words.
+
+37
+00:02:56.689 --> 00:03:03.217
+<v Leo>And quick exam warning: this two-rope problem shows up again in Sternberg as the two-string problem.
+
+38
+00:03:03.537 --> 00:03:11.679
+<v Ava>Same classic task. Matlin uses it to show embodied cognition, Sternberg uses it as an ill-structured insight problem.
+
+39
+00:03:11.679 --> 00:03:14.950
+<v Ava>Use both angles in Canvas Question B point two.
+
+40
+00:03:15.850 --> 00:03:20.095
+<v Leo>Okay. Once I've got my representation, I pick a strategy.
+
+41
+00:03:20.415 --> 00:03:27.609
+<v Ava>And the basic choice is algorithm or heuristic. An algorithm is a method that will always produce a solution,
+
+42
+00:03:27.609 --> 00:03:34.538
+<v Ava>but it can be inefficient. One example is exhaustive search: try every possible answer in a fixed system.
+
+43
+00:03:34.858 --> 00:03:36.266
+<v Leo>Like the anagram.
+
+44
+00:03:36.586 --> 00:03:43.958
+<v Ava>Like the anagram. Fourteen letters. An exhaustive search would try every order, and there are more than eighty-seven billion.
+
+45
+00:03:43.958 --> 00:03:50.858
+<v Ava>You'd find the word simultaneously, but as Matlin and Farmer put it, you might grow a few years older in the process.
+
+46
+00:03:51.178 --> 00:03:53.354
+<v Leo>So the heuristic is the shortcut.
+
+47
+00:03:53.674 --> 00:04:04.486
+<v Ava>A heuristic is a general rule that is usually correct. For the anagram, you'd only try pronounceable two-letter combinations that often begin English words.
+
+48
+00:04:04.486 --> 00:04:08.991
+<v Ava>So you'd reject L S, L T, L Y, and try L E, L U, and ideally S T.
+
+49
+00:04:09.311 --> 00:04:10.591
+<v Leo>But no guarantee.
+
+50
+00:04:10.911 --> 00:04:17.375
+<v Ava>No guarantee. Take the anagram that spells lymphoid. If your rule is to reject rare starting letters,
+
+51
+00:04:17.375 --> 00:04:23.007
+<v Ava>you reject L Y, and you'll never find it. So a heuristic trades the guarantee for speed.
+
+52
+00:04:23.327 --> 00:04:27.999
+<v Leo>Algorithm: always, but slowly. Heuristic: usually, but quickly.
+
+53
+00:04:28.319 --> 00:04:33.807
+<v Ava>That's the memory hook. And the three heuristics that matter most here are the analogy, means-ends,
+
+54
+00:04:33.807 --> 00:04:34.805
+<v Ava>and hill climbing.
+
+55
+00:04:35.704 --> 00:04:42.360
+<v Leo>But algorithms aren't always slow, are they? Canvas Question A point two is about the Tower of Hanoi.
+
+56
+00:04:42.680 --> 00:04:49.663
+<v Ava>Right. Algorithms are slow when they search blindly. But when a problem is well defined and you know its structure,
+
+57
+00:04:49.663 --> 00:04:57.677
+<v Ava>the algorithm can just follow that structure step by step. It never searches, so it reaches the goal in the minimum number of moves.
+
+58
+00:04:58.577 --> 00:05:02.716
+<v Leo>Now here's where Theme 6 comes back. System 1, System 2.
+
+59
+00:05:03.036 --> 00:05:11.579
+<v Ava>Yes. It's tempting to say heuristics are System 1 and algorithms are System 2. Robinson-Riegler says that mapping isn't that neat.
+
+60
+00:05:11.579 --> 00:05:12.828
+<v Ava>Both can be either.
+
+61
+00:05:13.148 --> 00:05:14.812
+<v Leo>Give me the four boxes.
+
+62
+00:05:15.132 --> 00:05:23.066
+<v Ava>A well-practised algorithm, like your multiplication tables, is System 1. A new algorithm, like following a new recipe closely,
+
+63
+00:05:23.066 --> 00:05:30.313
+<v Ava>is System 2. A quick heuristic, like glancing at a blackjack hand on nineteen and deciding not to take another card,
+
+64
+00:05:30.313 --> 00:05:36.124
+<v Ava>is System 1. And solving a problem with an analogy is a slow, deliberate, System 2 heuristic.
+
+65
+00:05:36.444 --> 00:05:39.132
+<v Leo>And there's a trap here with the word heuristic.
+
+66
+00:05:39.452 --> 00:05:48.265
+<v Ava>Big trap. Don't use the Theme 6 judgement heuristics, availability and representativeness, as if they were the problem-solving heuristics here.
+
+67
+00:05:48.265 --> 00:05:52.764
+<v Ava>Both are rules of thumb, but here they're strategies for reaching a goal.
+
+68
+00:05:53.663 --> 00:05:55.604
+<v Leo>So when should I trust my gut?
+
+69
+00:05:55.924 --> 00:06:05.747
+<v Ava>That's Pretz, 2008. She compared an intuitive mode and an analytic mode, using everyday college problems from the College Student Tacit Knowledge Inventory.
+
+70
+00:06:05.747 --> 00:06:14.058
+<v Ava>One sample item: you want a letter of recommendation, and you run into the professor in a coffee shop with what seem to be his kids.
+
+71
+00:06:14.378 --> 00:06:15.316
+<v Leo>Awkward.
+
+72
+00:06:15.636 --> 00:06:23.208
+<v Ava>Very. Students rated possible actions. They got analytic instructions, a four-step method; intuitive instructions,
+
+73
+00:06:23.208 --> 00:06:30.780
+<v Ava>imagine it vividly and trust your gut; or no instructions. The score was the distance from the consensus solution,
+
+74
+00:06:30.780 --> 00:06:32.042
+<v Ava>so lower is better.
+
+75
+00:06:32.362 --> 00:06:33.471
+<v Leo>And the result?
+
+76
+00:06:33.791 --> 00:06:40.074
+<v Ava>First-years did best with intuition, about nine point nine, against about ten point nine analytic.
+
+77
+00:06:40.074 --> 00:06:46.164
+<v Ava>Juniors did best with analysis, about nine point seven, and worst with intuition, about twelve.
+
+78
+00:06:46.484 --> 00:06:49.428
+<v Leo>So beginners: gut. Experienced: analysis.
+
+79
+00:06:49.748 --> 00:06:58.292
+<v Ava>Because analysis needs knowledge to work with. Newcomers get overwhelmed by it. So neither System 1 nor System 2 is better in general.
+
+80
+00:06:58.292 --> 00:07:00.906
+<v Ava>It depends on the person and the problem.
+
+81
+00:07:01.805 --> 00:07:07.800
+<v Leo>Lecture A point two. The analogy approach. The most powerful heuristic, supposedly.
+
+82
+00:07:08.120 --> 00:07:15.566
+<v Ava>Potentially the most powerful, according to Robinson-Riegler. In the analogy approach, you use the solution to a similar,
+
+83
+00:07:15.566 --> 00:07:17.720
+<v Ava>earlier problem to solve a new one.
+
+84
+00:07:18.619 --> 00:07:25.977
+<v Ava>And analogies are everywhere. Engineers created an average of a hundred and two analogies during nine hours of problem solving.
+
+85
+00:07:25.977 --> 00:07:31.771
+<v Ava>And the Wright brothers noticed that birds control flight with small adjustments of their wing tips,
+
+86
+00:07:31.771 --> 00:07:34.726
+<v Ava>so they built adjustable wing tips for their plane.
+
+87
+00:07:35.046 --> 00:07:37.243
+<v Leo>Nice. And problem isomorphs?
+
+88
+00:07:37.563 --> 00:07:44.398
+<v Ava>Problems with the same underlying structure and solution, but different details. Like the mutilated checkerboard:
+
+89
+00:07:44.398 --> 00:07:51.536
+<v Ava>cut two opposite corners off a checkerboard and try to cover the remaining sixty-two squares with thirty-one dominoes.
+
+90
+00:07:51.856 --> 00:07:53.563
+<v Leo>It's impossible, right?
+
+91
+00:07:53.883 --> 00:08:00.557
+<v Ava>Impossible. Each domino covers one black and one white square, and the two removed corners are the same colour.
+
+92
+00:08:00.557 --> 00:08:07.773
+<v Ava>It's the same structure as the country-dance problem: you can't pair all the men and women if their numbers are unequal.
+
+93
+00:08:07.773 --> 00:08:10.118
+<v Ava>And most readers don't notice the link.
+
+94
+00:08:10.438 --> 00:08:13.147
+<v Leo>Which is kind of the theme of this whole lecture.
+
+95
+00:08:13.467 --> 00:08:20.528
+<v Ava>It is. Robinson-Riegler says people are unlikely to use an analogy unless they're practically hit over the head with it.
+
+96
+00:08:21.428 --> 00:08:24.628
+<v Leo>Okay, the radiation problem. Walk me through it.
+
+97
+00:08:24.948 --> 00:08:34.518
+<v Ava>A doctor has to destroy a stomach tumour without operating. A ray strong enough to destroy the tumour also destroys the healthy tissue it passes through.
+
+98
+00:08:34.518 --> 00:08:36.895
+<v Ava>Weaker rays are harmless, but useless.
+
+99
+00:08:37.215 --> 00:08:39.135
+<v Leo>And the answer is convergence.
+
+100
+00:08:39.455 --> 00:08:47.628
+<v Ava>Many weak rays from different angles, so only the tumour gets the summed energy. Gick and Holyoak gave people an analogous story first:
+
+101
+00:08:47.628 --> 00:08:52.895
+<v Ava>a commander who sends a few tanks across each bridge to capture an island headquarters.
+
+102
+00:08:53.215 --> 00:08:54.985
+<v Leo>And how many people got it?
+
+103
+00:08:55.305 --> 00:09:00.961
+<v Ava>With only the radiation problem, ten percent. When they'd memorised the commander story first,
+
+104
+00:09:00.961 --> 00:09:05.353
+<v Ava>thirty percent. So about twenty percent noticed the analogy on their own.
+
+105
+00:09:06.253 --> 00:09:08.109
+<v Leo>And then they tried to boost it.
+
+106
+00:09:08.429 --> 00:09:15.559
+<v Ava>In 1983 they compared each boost with the one-analogy condition. Adding a statement of the general principle:
+
+107
+00:09:15.559 --> 00:09:19.288
+<v Ava>twenty-nine versus thirty-two percent. Basically nothing.
+
+108
+00:09:19.608 --> 00:09:20.824
+<v Leo>A diagram?
+
+109
+00:09:21.144 --> 00:09:28.923
+<v Ava>A diagram of converging arrows: forty percent without, twenty-two with. It didn't help. But adding another analogous problem,
+
+110
+00:09:28.923 --> 00:09:34.712
+<v Ava>and asking people to find what the two had in common: twenty-one percent jumped to fifty-two.
+
+111
+00:09:35.032 --> 00:09:39.725
+<v Leo>So being told the principle doesn't work. You have to discover it by comparing.
+
+112
+00:09:40.045 --> 00:09:46.495
+<v Ava>Exactly. They call it schema induction. Comparing two problems lets you extract the shared principle,
+
+113
+00:09:46.495 --> 00:09:49.752
+<v Ava>a schema you can then use on any analogous problem.
+
+114
+00:09:50.651 --> 00:09:57.961
+<v Ava>Novick and Holyoak describe three steps. First you notice that two problems are related. Then you map the key elements,
+
+115
+00:09:57.961 --> 00:10:02.875
+<v Ava>the tumour is the headquarters. Then you develop the general convergence schema.
+
+116
+00:10:03.195 --> 00:10:04.667
+<v Leo>And where does it break?
+
+117
+00:10:04.987 --> 00:10:11.318
+<v Ava>At noticing. It's basically a memory failure: the new problem doesn't trigger the memory of the old one.
+
+118
+00:10:11.318 --> 00:10:17.040
+<v Ava>A hint works as a retrieval cue. But in everyday life, there's rarely anyone giving you hints.
+
+119
+00:10:17.360 --> 00:10:19.984
+<v Leo>So the problem is retrieval, not use.
+
+120
+00:10:20.304 --> 00:10:23.014
+<v Ava>That's the heart of Canvas Question A point seven.
+
+121
+00:10:23.913 --> 00:10:26.174
+<v Leo>Why is noticing so hard, though?
+
+122
+00:10:26.494 --> 00:10:33.045
+<v Ava>Because of the kind of similarity the problems share. Surface features are the specific objects and words.
+
+123
+00:10:33.045 --> 00:10:40.954
+<v Ava>Structural features are the underlying relationships. The radiation and commander problems are totally different on the surface,
+
+124
+00:10:40.954 --> 00:10:45.033
+<v Ava>cancer versus a military attack, but almost the same in structure.
+
+125
+00:10:45.353 --> 00:10:47.230
+<v Leo>And we focus on the surface.
+
+126
+00:10:47.550 --> 00:10:54.234
+<v Ava>We do. My favourite example: Rutgers University wanted a system for applicants to track their applications.
+
+127
+00:10:54.234 --> 00:11:00.792
+<v Ava>At first, staff only looked at other universities' systems, similar on the surface, and that didn't work.
+
+128
+00:11:00.792 --> 00:11:06.539
+<v Ava>Then they realised the real problem was tracking, so they studied how FedEx tracks packages.
+
+129
+00:11:06.539 --> 00:11:07.476
+<v Ava>That solved it.
+
+130
+00:11:07.796 --> 00:11:09.801
+<v Leo>Ha, that's great. So what helps?
+
+131
+00:11:10.121 --> 00:11:18.031
+<v Ava>Trying several structurally similar problems before the target, and being trained to sort problems into categories by structure.
+
+132
+00:11:18.031 --> 00:11:20.873
+<v Ava>That improved accuracy on statistics problems.
+
+133
+00:11:21.773 --> 00:11:25.122
+<v Leo>Now, does talking through a problem help with analogies?
+
+134
+00:11:25.442 --> 00:11:33.434
+<v Ava>Surprisingly, maybe not. Lane and Schooler had people read sixteen short scenarios, then pick analogues for eight test scenarios.
+
+135
+00:11:33.434 --> 00:11:39.629
+<v Ava>Each test scenario matched one original on the surface and another on structure. Half thought aloud.
+
+136
+00:11:39.949 --> 00:11:41.400
+<v Leo>And thinking aloud…
+
+137
+00:11:41.720 --> 00:11:47.785
+<v Ava>Thinking aloud: three point eight surface matches, one structural. Silent: one point nine surface,
+
+138
+00:11:47.785 --> 00:11:54.840
+<v Ava>two point three structural. Talking flipped the preference, because surface features are easier to put into words.
+
+139
+00:11:55.739 --> 00:11:57.936
+<v Leo>But is the picture really that bleak?
+
+140
+00:11:58.256 --> 00:12:05.762
+<v Ava>Maybe partly a lab artefact. Blanchette and Dunbar had people produce their own analogies, and those shared structure,
+
+141
+00:12:05.762 --> 00:12:12.059
+<v Ava>not surface. And Markman, Taylor and Gentner noticed that most studies present problems in writing.
+
+142
+00:12:12.379 --> 00:12:14.043
+<v Leo>So they tried listening.
+
+143
+00:12:14.363 --> 00:12:23.848
+<v Ava>With proverbs, like the swiftest steed can stumble. With structural cues, people remembered the original proverb better when they'd heard it than when they'd read it.
+
+144
+00:12:23.848 --> 00:12:25.734
+<v Ava>With surface cues, no difference.
+
+145
+00:12:26.054 --> 00:12:30.939
+<v Leo>Wait, doesn't that contradict Lane and Schooler? Talking hurts, but listening helps?
+
+146
+00:12:31.259 --> 00:12:37.056
+<v Ava>That's the trap. In Lane and Schooler, people produced speech while retrieving. In Markman,
+
+147
+00:12:37.056 --> 00:12:42.981
+<v Ava>people received speech while encoding. Producing versus receiving, retrieval versus encoding.
+
+148
+00:12:42.981 --> 00:12:45.211
+<v Ava>That's Canvas Question A point six.
+
+149
+00:12:46.111 --> 00:12:49.354
+<v Leo>And the last study here is about acting things out.
+
+150
+00:12:49.674 --> 00:12:55.452
+<v Ava>Catrambone, Craig and Nersessian. Everyone read the fortress story. Then they recalled it verbally,
+
+151
+00:12:55.452 --> 00:13:00.063
+<v Ava>or while drawing a sketch, or while moving blocks around to show what happened.
+
+152
+00:13:00.383 --> 00:13:02.452
+<v Leo>And then the radiation problem.
+
+153
+00:13:02.772 --> 00:13:08.479
+<v Ava>With no hint, the enactment group gave the convergence solution fifty-two percent of the time,
+
+154
+00:13:08.479 --> 00:13:15.218
+<v Ava>versus twenty-seven for sketching and nineteen for verbal. Then, told to use the story, almost everyone got it:
+
+155
+00:13:15.218 --> 00:13:17.343
+<v Ava>point eight five to point nine one.
+
+156
+00:13:17.663 --> 00:13:22.186
+<v Leo>So acting it out is the only thing that made people notice on their own.
+
+157
+00:13:22.506 --> 00:13:27.519
+<v Ava>Another win for embodiment. Notice, map, schema, and noticing is where it breaks.
+
+158
+00:13:28.419 --> 00:13:32.536
+<v Leo>Lecture A point three. Means-ends analysis and hill climbing.
+
+159
+00:13:32.856 --> 00:13:39.766
+<v Ava>Back to the loose hem. The student split her problem into two smaller ones. Find an object that could fix a hem,
+
+160
+00:13:39.766 --> 00:13:47.107
+<v Ava>even if it's not a usual hem-fixer. Then find where such an object is. A stapler in the professor's office solved both.
+
+161
+00:13:48.007 --> 00:13:57.729
+<v Ava>That's the means-ends heuristic. Two parts. You divide the problem into subproblems, and for each one you reduce the difference between where you are and the goal.
+
+162
+00:13:57.729 --> 00:14:02.023
+<v Ava>Researchers see it as one of the most effective and flexible strategies.
+
+163
+00:14:02.343 --> 00:14:04.839
+<v Leo>And there's evidence people actually do this?
+
+164
+00:14:05.159 --> 00:14:15.079
+<v Ava>Greeno, 1974, with the Elves and Goblins problem: people paused exactly where a new subproblem began and they had to plan a sequence of moves.
+
+165
+00:14:15.399 --> 00:14:17.852
+<v Leo>And sometimes you have to go backwards.
+
+166
+00:14:18.172 --> 00:14:24.064
+<v Ava>Yes. In Elves and Goblins, there's a crucial step where two creatures have to go back to the starting bank.
+
+167
+00:14:24.064 --> 00:14:30.176
+<v Ava>And people really don't like moving away from the goal, even when the solution needs it. On the Tower of Hanoi,
+
+168
+00:14:30.176 --> 00:14:36.838
+<v Ava>the biggest difference is that the largest disk isn't on the goal rod. To move it, the smaller disks must come off first.
+
+169
+00:14:36.838 --> 00:14:43.666
+<v Ava>That becomes a subgoal, which you split again, sometimes putting a small disk on the goal rod and taking it off again later.
+
+170
+00:14:44.565 --> 00:14:47.701
+<v Leo>And then Newell and Simon built a computer that does it.
+
+171
+00:14:48.021 --> 00:14:56.466
+<v Ava>The General Problem Solver, 1972. Its basic strategy was means-ends analysis, and the goal was to mimic human problem solving.
+
+172
+00:14:56.466 --> 00:15:03.168
+<v Ava>They first asked people to talk aloud while solving, and used those narratives to write the program.
+
+173
+00:15:03.488 --> 00:15:06.069
+<v Leo>And the program should make mistakes like we do.
+
+174
+00:15:06.389 --> 00:15:12.516
+<v Ava>It should be neither better nor worse than a person, false starts included. GPS had a big impact,
+
+175
+00:15:12.516 --> 00:15:20.032
+<v Ava>but they eventually discarded it, because real-life problems aren't that clear-cut. Later, John Anderson's simulations,
+
+176
+00:15:20.032 --> 00:15:25.653
+<v Ava>linked to his ACT-R theory, ended up as cognitive tutors in high-school maths classrooms.
+
+177
+00:15:26.553 --> 00:15:28.153
+<v Leo>Okay, hill climbing.
+
+178
+00:15:28.473 --> 00:15:35.094
+<v Ava>Imagine hiking toward the top of a hill in unfamiliar country. At a fork, you can't see far down either path,
+
+179
+00:15:35.094 --> 00:15:42.020
+<v Ava>so you take the steeper one. At each choice point, you pick the step that seems to lead most directly to the goal.
+
+180
+00:15:42.340 --> 00:15:45.390
+<v Leo>And the problem is you can end up on a small hill.
+
+181
+00:15:45.710 --> 00:15:53.786
+<v Ava>Right, an upward path can end abruptly. Matlin's example: a student who wants a high salary takes a job straight after college,
+
+182
+00:15:53.786 --> 00:16:02.180
+<v Ava>although a graduate degree would probably pay more in the long run. Hill climbing favours short-term goals over long-term solutions.
+
+183
+00:16:02.500 --> 00:16:07.342
+<v Leo>So how is it different from means-ends? Both reduce the distance to the goal.
+
+184
+00:16:07.662 --> 00:16:16.692
+<v Ava>That's the trap for Canvas A point three to A point five. Means-ends first divides the problem into subproblems and can plan a temporary step back.
+
+185
+00:16:16.692 --> 00:16:21.913
+<v Ava>Hill climbing only asks which next step looks most directly upward, so it gets stuck.
+
+186
+00:16:22.233 --> 00:16:26.628
+<v Leo>Means-ends plans the route. Hill climbing only looks at the next step.
+
+187
+00:16:27.527 --> 00:16:29.319
+<v Leo>And there's a culture study.
+
+188
+00:16:29.639 --> 00:16:35.648
+<v Ava>Güss, Tuason and Gerhard, 2010. About a hundred students each from the US, the Philippines,
+
+189
+00:16:35.648 --> 00:16:43.374
+<v Ava>Germany, Brazil and India. They thought aloud while working on microworlds, computer simulations of complex problems,
+
+190
+00:16:43.374 --> 00:16:49.714
+<v Ava>like commanding a fire brigade to fight forest fires. The researchers counted planning comments.
+
+191
+00:16:50.034 --> 00:16:50.695
+<v Leo>And?
+
+192
+00:16:51.015 --> 00:16:57.747
+<v Ava>German students planned the most, Filipinos the least, with Americans, Brazilians and Indians in between.
+
+193
+00:16:57.747 --> 00:17:03.324
+<v Ava>The hypothesis was only partly supported, because Americans planned less than expected.
+
+194
+00:17:03.644 --> 00:17:06.354
+<v Leo>And the exam point is about causation.
+
+195
+00:17:06.674 --> 00:17:13.889
+<v Ava>Exactly. Groups differ on many dimensions besides country, like language of testing or familiarity with computers.
+
+196
+00:17:13.889 --> 00:17:18.130
+<v Ava>So it shows a cultural difference, but not a clear-cut explanation.
+
+197
+00:17:19.029 --> 00:17:25.088
+<v Leo>On to Block B. Sternberg. Lecture B point one: ill-structured problems and insight.
+
+198
+00:17:25.408 --> 00:17:31.338
+<v Ava>Block A assumed there's a clear path, even if it's hard to find. Block B asks: what if there isn't one?
+
+199
+00:17:32.238 --> 00:17:37.795
+<v Ava>Take the two-string problem again. Sternberg says people go wrong when they define the problem.
+
+200
+00:17:37.795 --> 00:17:44.931
+<v Ava>They think: how do I move toward one string while holding the other? That self-made constraint makes it almost impossible.
+
+201
+00:17:45.251 --> 00:17:46.766
+<v Leo>So it's ill-structured.
+
+202
+00:17:47.086 --> 00:17:52.882
+<v Ava>No clear path, and by definition no well-defined problem space. Compare the Tower of Hanoi,
+
+203
+00:17:52.882 --> 00:17:56.067
+<v Ava>where start, goal and allowed moves are all clear.
+
+204
+00:17:56.387 --> 00:17:58.179
+<v Leo>And there are some fun ones.
+
+205
+00:17:58.499 --> 00:18:05.219
+<v Ava>A woman in a small town married twenty different men in that town. All alive, no divorces, no laws broken.
+
+206
+00:18:05.539 --> 00:18:08.355
+<v Leo>She's a minister. She performed the ceremonies.
+
+207
+00:18:08.675 --> 00:18:14.648
+<v Ava>Right. And the socks: black and brown in a ratio of five to one. How many to be sure of a pair?
+
+208
+00:18:14.648 --> 00:18:21.124
+<v Ava>Just three. The ratio is irrelevant. In each case you had to redefine something: a word, the materials,
+
+209
+00:18:21.124 --> 00:18:22.947
+<v Ava>or which information matters.
+
+210
+00:18:23.267 --> 00:18:25.806
+<v Leo>And ill-structured doesn't mean very hard.
+
+211
+00:18:26.126 --> 00:18:32.191
+<v Ava>Good trap. It means no well-defined problem space. Four-disk Hanoi is hard but well-structured;
+
+212
+00:18:32.191 --> 00:18:34.681
+<v Ava>the socks are short but ill-structured.
+
+213
+00:18:35.580 --> 00:18:37.031
+<v Leo>Okay. Insight.
+
+214
+00:18:37.351 --> 00:18:43.385
+<v Ava>Insight is a distinctive and sometimes seemingly sudden understanding of a problem or a strategy.
+
+215
+00:18:43.385 --> 00:18:51.473
+<v Ava>You have to restructure how you see it. The Gestalt psychologists said insight problems require you to see the problem as a whole.
+
+216
+00:18:51.793 --> 00:18:53.543
+<v Leo>And Wertheimer's distinction?
+
+217
+00:18:53.863 --> 00:19:00.731
+<v Ava>Productive thinking goes beyond existing associations. Reproductive thinking is based on what you already know.
+
+218
+00:19:00.731 --> 00:19:06.671
+<v Ava>And Köhler had a chimpanzee called Sultan. Bananas out of reach. After failing to jump for them,
+
+219
+00:19:06.671 --> 00:19:10.631
+<v Ava>he suddenly stacked the boxes in his enclosure and climbed them.
+
+220
+00:19:10.951 --> 00:19:13.980
+<v Leo>So for the Gestaltists, insight is special.
+
+221
+00:19:14.300 --> 00:19:18.716
+<v Ava>A special process, different from normal, step-by-step information processing.
+
+222
+00:19:19.616 --> 00:19:21.728
+<v Leo>And Metcalfe actually measured it.
+
+223
+00:19:22.048 --> 00:19:28.551
+<v Ava>She did. People first predicted whether they'd solve each problem. Then, every fifteen seconds while solving,
+
+224
+00:19:28.551 --> 00:19:32.011
+<v Ava>they rated how warm, how close, they felt to the solution.
+
+225
+00:19:32.331 --> 00:19:33.952
+<v Leo>And routine problems?
+
+226
+00:19:34.272 --> 00:19:39.894
+<v Ava>For algebra and the Tower of Hanoi, predictions were accurate and warmth rose step by step.
+
+227
+00:19:39.894 --> 00:19:46.751
+<v Ava>For insight problems, predictions were poor, and warmth didn't rise until moments before the solution appeared,
+
+228
+00:19:46.751 --> 00:19:47.307
+<v Ava>abruptly.
+
+229
+00:19:47.627 --> 00:19:52.981
+<v Leo>Routine problems warm up slowly. Insight problems stay cold, then jump.
+
+230
+00:19:53.301 --> 00:19:59.486
+<v Ava>That's the memory hook, and it's the basis of Canvas Question B point one on the aha experience.
+
+231
+00:19:59.486 --> 00:20:06.187
+<v Ava>One small note: Sternberg's figure is a set of histograms, and the chart here is a simplified schematic.
+
+232
+00:20:07.086 --> 00:20:09.369
+<v Leo>But is insight really always sudden?
+
+233
+00:20:09.689 --> 00:20:17.326
+<v Ava>Not according to Smith, 1995. Insights often happen gradually. And Sternberg warns that insights can be brilliant,
+
+234
+00:20:17.326 --> 00:20:24.963
+<v Ava>and dead wrong. Sleep helps too: in maths problems and rule-learning tasks, sleep increased the chance of insight.
+
+235
+00:20:25.283 --> 00:20:26.393
+<v Leo>And the brain?
+
+236
+00:20:26.713 --> 00:20:34.281
+<v Ava>During insight, activity rises in the right anterior superior-temporal gyrus, with a burst of high-frequency EEG activity.
+
+237
+00:20:34.281 --> 00:20:40.485
+<v Ava>The right hippocampus is critical too, which makes sense, since insight combines stored information.
+
+238
+00:20:40.485 --> 00:20:46.378
+<v Ava>And here's the coolest one: brain activity before people even see the problem predicts insight.
+
+239
+00:20:46.378 --> 00:20:51.651
+<v Ava>Those who later solved with insight showed strong frontal activation while preparing.
+
+240
+00:20:51.971 --> 00:20:54.681
+<v Leo>So insight isn't magic. It's prepared.
+
+241
+00:20:55.001 --> 00:20:59.395
+<v Ava>Work hard first, then take a break. Which brings us to obstacles and aids.
+
+242
+00:21:00.295 --> 00:21:03.303
+<v Leo>Lecture B point two: obstacles and aids.
+
+243
+00:21:04.203 --> 00:21:12.672
+<v Ava>The first obstacle is mental set, also called entrenchment. You fixate on a strategy that normally works but doesn't work for this problem.
+
+244
+00:21:12.992 --> 00:21:14.251
+<v Leo>The water jars.
+
+245
+00:21:14.571 --> 00:21:24.336
+<v Ava>The water jars. Three jars, A, B and C, and you have to measure out an amount. Problems one to six can all be solved with B minus A minus two C.
+
+246
+00:21:24.336 --> 00:21:30.845
+<v Ava>But problems seven to eleven can be solved much more simply, with just two jars. Like A minus C,
+
+247
+00:21:30.845 --> 00:21:31.659
+<v Ava>or A plus C.
+
+248
+00:21:31.979 --> 00:21:34.283
+<v Leo>And people keep using the long one.
+
+249
+00:21:34.603 --> 00:21:41.169
+<v Ava>Between sixty-four and eighty-three percent of people who'd solved the first set kept using the long method.
+
+250
+00:21:41.169 --> 00:21:47.552
+<v Ava>Among controls, who never had that practice, only one to five percent failed to use the simple solutions.
+
+251
+00:21:47.872 --> 00:21:50.112
+<v Leo>So practice literally blinded them.
+
+252
+00:21:51.012 --> 00:21:56.774
+<v Ava>The second kind is functional fixedness: not seeing that an object with one use can have another.
+
+253
+00:21:56.774 --> 00:22:04.853
+<v Ava>Breaking free of it let people use a reshaped coat hanger to get into a locked car. Seeing pliers as a weight in the two-string problem,
+
+254
+00:22:04.853 --> 00:22:07.823
+<v Ava>or the C-clamp as a hat hook, needs the same step.
+
+255
+00:22:08.143 --> 00:22:10.276
+<v Leo>And the third one is stereotypes.
+
+256
+00:22:10.596 --> 00:22:17.089
+<v Ava>Yes. Stereotypes form like other mental sets: you see a pattern in a few cases and overgeneralise it to all.
+
+257
+00:22:17.089 --> 00:22:22.921
+<v Ava>And they don't only harm the targets. They limit the problem solving of the people who hold them,
+
+258
+00:22:22.921 --> 00:22:23.161
+<v Ava>too.
+
+259
+00:22:23.481 --> 00:22:26.084
+<v Leo>And there's a trap linking this to Block C.
+
+260
+00:22:26.404 --> 00:22:33.402
+<v Ava>Functional fixedness is about an object's usual use. The fixation effect in Camarda's egg task is about ideas:
+
+261
+00:22:33.402 --> 00:22:37.028
+<v Ava>getting stuck on the most accessible solution categories.
+
+262
+00:22:37.928 --> 00:22:39.379
+<v Leo>Okay, transfer.
+
+263
+00:22:39.699 --> 00:22:45.835
+<v Ava>Transfer is any carryover of knowledge or skills from one problem to another. Negative transfer:
+
+264
+00:22:45.835 --> 00:22:52.163
+<v Ava>an earlier problem makes a later one harder, like operating a new tool the way you used an old one.
+
+265
+00:22:52.163 --> 00:22:56.893
+<v Ava>Positive transfer: it makes it easier, like addition helping with algebra.
+
+266
+00:22:57.213 --> 00:23:00.669
+<v Leo>And Sternberg gives the numbers for the military story.
+
+267
+00:23:00.989 --> 00:23:08.104
+<v Ava>With the military story, its solution and a hint to apply it, about seventy-five percent solved the radiation problem,
+
+268
+00:23:08.104 --> 00:23:14.436
+<v Ava>versus less than ten percent with no story. When people had to work out the military solution themselves,
+
+269
+00:23:14.436 --> 00:23:24.264
+<v Ava>about fifty percent did, and forty-one percent of those then solved the radiation problem. And memorising it as a story-recall experiment gave only thirty percent.
+
+270
+00:23:24.584 --> 00:23:27.101
+<v Leo>Always name the condition with the number.
+
+271
+00:23:27.421 --> 00:23:34.568
+<v Ava>Always. Less than ten, no story. Thirty, memorise. Forty-one, self-solved. Seventy-five, solution plus hint.
+
+272
+00:23:34.568 --> 00:23:40.854
+<v Ava>And physics students transferred better when they tried to understand why examples were solved,
+
+273
+00:23:40.854 --> 00:23:41.715
+<v Ava>not just how.
+
+274
+00:23:42.614 --> 00:23:45.793
+<v Leo>And similarity can mislead in both directions.
+
+275
+00:23:46.113 --> 00:23:54.535
+<v Ava>Right. Sometimes different content hides the shared structure. And sometimes similar content fools you into seeing an analogy that isn't there.
+
+276
+00:23:54.535 --> 00:23:55.713
+<v Ava>That's transparency.
+
+277
+00:23:56.033 --> 00:23:57.419
+<v Leo>The exam example.
+
+278
+00:23:57.739 --> 00:24:08.814
+<v Ava>Studying for exams in two psychology courses looks like the same problem. But a closed-book essay exam needs different strategies from an open-book multiple-choice exam.
+
+279
+00:24:08.814 --> 00:24:15.105
+<v Ava>Transparency can cause negative transfer. That's the key idea for Canvas Question B point three.
+
+280
+00:24:16.004 --> 00:24:18.372
+<v Leo>And the last aid: incubation.
+
+281
+00:24:18.692 --> 00:24:25.361
+<v Ava>Putting a problem aside for a while, without consciously thinking about it. It's a way to escape negative transfer.
+
+282
+00:24:25.361 --> 00:24:32.611
+<v Ava>Sio and Ormerod's meta-analysis found three things. Incubation is more fruitful when you've prepared longer before the break.
+
+283
+00:24:32.611 --> 00:24:39.570
+<v Ava>Filling the break with a highly demanding task hurts. And divergent-thinking tasks, where you have to produce something,
+
+284
+00:24:39.570 --> 00:24:40.324
+<v Ava>benefit more.
+
+285
+00:24:40.644 --> 00:24:42.201
+<v Leo>Benefit more than what?
+
+286
+00:24:42.521 --> 00:24:48.409
+<v Ava>Your excerpt stops mid-sentence right there, so don't guess in the exam. Stick to those three findings.
+
+287
+00:24:48.729 --> 00:24:54.767
+<v Leo>So: forty minutes of real work, then a quiet walk. Not five minutes, then a hard video game.
+
+288
+00:24:55.087 --> 00:24:58.393
+<v Ava>Set blinds, structure transfers, a quiet break unsticks.
+
+289
+00:24:59.293 --> 00:25:06.418
+<v Leo>Block C. Camarda and colleagues, 2018. Do we need inhibitory control to be creative?
+
+290
+00:25:06.738 --> 00:25:13.997
+<v Ava>Inhibitory control is the ability to stop a dominant, automatic response. Like naming the ink colour of the word red,
+
+291
+00:25:13.997 --> 00:25:16.850
+<v Ava>printed in green, instead of reading the word.
+
+292
+00:25:17.750 --> 00:25:19.286
+<v Leo>And there are two camps.
+
+293
+00:25:19.606 --> 00:25:27.523
+<v Ava>The disinhibition view says creativity runs on automatic processes, loose associations. So weaker inhibition should help.
+
+294
+00:25:27.523 --> 00:25:33.869
+<v Ava>Evidence: negative correlations between inhibition and divergent thinking, some clinical studies,
+
+295
+00:25:33.869 --> 00:25:40.215
+<v Ava>and Radel and colleagues, 2015, who exhausted people's inhibitory resources first and found more,
+
+296
+00:25:40.215 --> 00:25:43.094
+<v Ava>and more original, unusual uses for a brick.
+
+297
+00:25:43.414 --> 00:25:44.694
+<v Leo>And the other camp?
+
+298
+00:25:45.014 --> 00:25:55.924
+<v Ava>The inhibition view. Stroop performance correlated positively with creativity. Industrial designers had both higher divergent thinking and better inhibitory control.
+
+299
+00:25:55.924 --> 00:26:01.940
+<v Ava>And in the brain, activity in the inferior frontal gyrus, classically linked to inhibition,
+
+300
+00:26:01.940 --> 00:26:04.321
+<v Ava>related to the originality of ideas.
+
+301
+00:26:05.220 --> 00:26:06.777
+<v Leo>And then there's the egg.
+
+302
+00:26:07.097 --> 00:26:14.031
+<v Ava>The egg task. Make sure a hen's egg doesn't break when dropped from ten metres. Adults fixate on a few categories:
+
+303
+00:26:14.031 --> 00:26:18.105
+<v Ava>dampen the shock, protect the egg, slow the fall, like a parachute.
+
+304
+00:26:18.425 --> 00:26:19.919
+<v Leo>And the original ones?
+
+305
+00:26:20.239 --> 00:26:26.797
+<v Ava>Using a living thing, like training a bird to catch the egg. Or modifying the egg, like freezing it first.
+
+306
+00:26:26.797 --> 00:26:31.375
+<v Ava>Those come up much less often. People follow the path of least resistance.
+
+307
+00:26:31.695 --> 00:26:34.319
+<v Leo>Which leads to the dual-process model.
+
+308
+00:26:34.639 --> 00:26:43.263
+<v Ava>Cassotti and colleagues: creative ideas take two steps. First, inhibit the dominant, common ideas from intuitive System 1.
+
+309
+00:26:43.263 --> 00:26:49.060
+<v Ava>Then explore new concepts with deliberate System 2. Stop the obvious, then expand.
+
+310
+00:26:49.960 --> 00:26:52.115
+<v Leo>So how do you test that causally?
+
+311
+00:26:52.435 --> 00:26:58.962
+<v Ava>With a dual task. People did the egg task alone, or while doing a congruent Stroop, red in red ink,
+
+312
+00:26:58.962 --> 00:27:06.280
+<v Ava>or an incongruent Stroop, red in green ink. Both need attention, but only the incongruent one needs inhibition.
+
+313
+00:27:06.600 --> 00:27:08.520
+<v Leo>And the predictions are opposite.
+
+314
+00:27:08.840 --> 00:27:16.005
+<v Ava>If disinhibition is right, people should be more creative under the incongruent Stroop, because their brakes are switched off.
+
+315
+00:27:16.005 --> 00:27:23.170
+<v Ava>If the inhibition view is right, they should be less creative. Either way, the congruent control should match the single task.
+
+316
+00:27:23.170 --> 00:27:25.160
+<v Ava>That's Canvas Question C point one.
+
+317
+00:27:26.060 --> 00:27:27.724
+<v Leo>And how do they score it?
+
+318
+00:27:28.044 --> 00:27:34.689
+<v Ava>Three ways. Fluidity is the number of solutions. Flexibility is the number of different categories used,
+
+319
+00:27:34.689 --> 00:27:41.079
+<v Ava>out of fifty-four. Expansivity is the number of solutions outside the three fixation metacategories.
+
+320
+00:27:41.399 --> 00:27:44.620
+<v Leo>And the trap is flexibility versus expansivity.
+
+321
+00:27:44.940 --> 00:27:51.404
+<v Ava>A cushion, a box and a parachute are three categories, so flexible, but zero expansive ideas.
+
+322
+00:27:51.404 --> 00:27:53.836
+<v Ava>That's Canvas Question C point two.
+
+323
+00:27:54.736 --> 00:27:57.083
+<v Leo>Lecture C point two: the results.
+
+324
+00:27:57.982 --> 00:28:04.470
+<v Ava>Experiment one. Seventy-eight undergraduates in Paris, randomly assigned to the three conditions.
+
+325
+00:28:04.470 --> 00:28:07.881
+<v Ava>Five minutes, ideas spoken aloud into a Dictaphone.
+
+326
+00:28:08.201 --> 00:28:10.142
+<v Leo>And flexibility got dropped.
+
+327
+00:28:10.462 --> 00:28:16.920
+<v Ava>It correlated point eight two with fluidity, so it was measuring almost the same thing. Now the results.
+
+328
+00:28:16.920 --> 00:28:23.130
+<v Ava>Fluidity: under inhibition load, about seven ideas, versus about ten point seven in the single task.
+
+329
+00:28:23.130 --> 00:28:29.402
+<v Ava>That's an effect size d of point seven two, medium to large. The control group, about ten point four,
+
+330
+00:28:29.402 --> 00:28:32.755
+<v Ava>basically the same as single task, d of point oh five.
+
+331
+00:28:33.075 --> 00:28:34.483
+<v Leo>And expansivity?
+
+332
+00:28:34.803 --> 00:28:41.596
+<v Ava>Under inhibition load, one point seven three, versus three point one two single task, d of point six one.
+
+333
+00:28:41.596 --> 00:28:49.359
+<v Ava>The overall test only tended toward significance, p of point oh eight, so they tested their planned comparison directly,
+
+334
+00:28:49.359 --> 00:28:50.782
+<v Ava>which was significant.
+
+335
+00:28:51.102 --> 00:28:53.513
+<v Leo>And the control result is the key, right?
+
+336
+00:28:53.833 --> 00:29:00.769
+<v Ava>It is. The congruent Stroop also adds a task, yet the control group was as creative as the single-task group.
+
+337
+00:29:00.769 --> 00:29:05.161
+<v Ava>So the cost is pinned on inhibition, not on doing two things at once.
+
+338
+00:29:06.060 --> 00:29:08.065
+<v Leo>So why a second experiment?
+
+339
+00:29:08.385 --> 00:29:14.482
+<v Ava>Because maybe it's not inhibition specifically. Maybe any demanding task costs executive control.
+
+340
+00:29:14.482 --> 00:29:21.961
+<v Ava>So Experiment two swapped the Stroop for a working-memory task: remember the order of four dots in a four by four grid,
+
+341
+00:29:21.961 --> 00:29:27.052
+<v Ava>then reproduce it. Complex patterns for high demand, simple lines for low demand.
+
+342
+00:29:27.372 --> 00:29:29.143
+<v Leo>And they checked the difficulty.
+
+343
+00:29:29.463 --> 00:29:37.295
+<v Ava>A control study showed the high-demand version was slower and less accurate, eighty-two versus ninety-three percent.
+
+344
+00:29:37.295 --> 00:29:43.641
+<v Ava>And the results: no effect at all. Fluidity, eleven point oh eight versus ten point four five.
+
+345
+00:29:43.641 --> 00:29:47.895
+<v Ava>Expansivity, five point two four versus five. Both F below one.
+
+346
+00:29:48.215 --> 00:29:51.927
+<v Leo>Busy brakes, fewer ideas. Busy memory, no change.
+
+347
+00:29:52.247 --> 00:29:53.505
+<v Ava>That's the memory hook.
+
+348
+00:29:54.405 --> 00:29:55.984
+<v Leo>So what's the conclusion?
+
+349
+00:29:56.304 --> 00:30:07.306
+<v Ava>Inhibitory control seems critical for overcoming fixation and generating original ideas. And neither experiment found that reducing inhibition stimulated creativity,
+
+350
+00:30:07.306 --> 00:30:10.106
+<v Ava>which goes against the disinhibition view.
+
+351
+00:30:10.426 --> 00:30:11.813
+<v Leo>But there are limits.
+
+352
+00:30:12.133 --> 00:30:18.791
+<v Ava>The authors consider that the working-memory task might just have been too easy, though they find that less likely.
+
+353
+00:30:18.791 --> 00:30:26.028
+<v Ava>And for your exam: a null result is absence of evidence, not evidence of absence. The two experiments used different samples.
+
+354
+00:30:26.028 --> 00:30:32.976
+<v Ava>And the Stroop involves reading words while the answers were spoken, so part of the effect could be verbal interference.
+
+355
+00:30:33.875 --> 00:30:36.264
+<v Leo>Okay, bring it all together for me.
+
+356
+00:30:36.584 --> 00:30:42.440
+<v Ava>Theme 7 makes one argument. Solving a problem depends less on effort than on representation,
+
+357
+00:30:42.440 --> 00:30:48.040
+<v Ava>and the hardest step is often letting go of the first representation that comes to mind.
+
+358
+00:30:48.360 --> 00:30:49.939
+<v Leo>Block A gives the toolkit.
+
+359
+00:30:50.259 --> 00:30:57.498
+<v Ava>Represent the problem, then choose an algorithm or a heuristic. Analogy is the most powerful and the most fragile,
+
+360
+00:30:57.498 --> 00:31:04.357
+<v Ava>because we see surface instead of structure. Block B takes away the clear path: insight needs restructuring,
+
+361
+00:31:04.357 --> 00:31:09.374
+<v Ava>and experience itself, mental set, fixedness, false analogies, gets in the way.
+
+362
+00:31:09.694 --> 00:31:11.806
+<v Leo>And Block C tests the mechanism.
+
+363
+00:31:12.126 --> 00:31:19.014
+<v Ava>When inhibitory control was busy, people produced fewer and less original ideas. When working memory was busy,
+
+364
+00:31:19.014 --> 00:31:24.900
+<v Ava>they didn't. So creativity isn't about switching control off. It's about stopping the obvious,
+
+365
+00:31:24.900 --> 00:31:27.592
+<v Ava>so slower reasoning can find something new.
+
+366
+00:31:28.492 --> 00:31:31.628
+<v Leo>Give me the memory hooks, one more time, quickly.
+
+367
+00:31:31.948 --> 00:31:36.172
+<v Ava>Algorithm: always, but slowly. Heuristic: usually, but quickly.
+
+368
+00:31:36.492 --> 00:31:39.799
+<v Leo>Notice, map, schema. Noticing is where it breaks.
+
+369
+00:31:40.119 --> 00:31:44.129
+<v Ava>Means-ends plans the route. Hill climbing only looks at the next step.
+
+370
+00:31:44.449 --> 00:31:49.804
+<v Leo>Routine problems warm up slowly. Insight problems stay cold, then jump.
+
+371
+00:31:50.124 --> 00:31:53.431
+<v Ava>Set blinds, structure transfers, a quiet break unsticks.
+
+372
+00:31:53.751 --> 00:31:55.969
+<v Leo>And: stop the obvious, then expand.
+
+373
+00:31:56.289 --> 00:32:02.069
+<v Ava>Perfect. Good luck with your studying, Sezen. And remember, when you get stuck, work hard on it first,
+
+374
+00:32:02.069 --> 00:32:03.372
+<v Ava>then take a quiet walk.
+
+375
+00:32:03.692 --> 00:32:05.697
+<v Leo>See you in the next deep dive.
